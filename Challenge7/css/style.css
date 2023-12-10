@@ -1,0 +1,23 @@
+#productImg {
+  width: 50%;
+}
+
+#logo {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+
+#imgCard {
+  margin: 10px auto;
+  height: 294px;
+  width: 294px;
+  cursor: pointer;
+  /* object-fit: cover; */
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: 3px 3px 5px;
+}
